@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(aqua, hwb(350 38% 5%));
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+#button_1 {
+    margin-bottom: 5px;
+}
+
+canvas {
+    box-shadow: 3px 3px 40px rgb(226, 147, 1);
+    background-color: white;
+}
